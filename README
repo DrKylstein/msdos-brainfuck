@@ -1,0 +1,2 @@
+A Brainfuck interpreter for MSDOS, written in assembly.
+Builds with JWASM.
